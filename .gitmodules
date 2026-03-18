@@ -79,3 +79,6 @@
 [submodule "trade"]
 	path = trade
 	url = https://github.com/modelearth/trade
+[submodule "trade-data"]
+	path = trade-data
+	url = https://github.com/modelearth/trade-data.git
